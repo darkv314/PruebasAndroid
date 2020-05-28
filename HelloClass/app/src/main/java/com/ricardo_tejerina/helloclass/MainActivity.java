@@ -33,6 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
     private boolean login(String user, String password)
     {
-        return user.equals("admin") && password.equals(("123"));
+        return user.equals("prueba") && password.equals(("123"));
     }
 }
